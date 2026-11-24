@@ -74,7 +74,7 @@ export default function Navbar() {
              <div className="size-[34px]" />
            )}
            <a 
-             href="/CV.Denis_Athaullah.pdf" 
+             href="/CV.Denis_Athaullah..pdf" 
              target="_blank" 
              className="hidden sm:flex items-center gap-2 h-9 px-4 rounded-md bg-foreground text-background text-sm font-medium hover:scale-105 active:scale-95 transition-all shadow-sm"
            >
